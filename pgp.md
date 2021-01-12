@@ -1,7 +1,9 @@
 *My PGP Key*
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 Version: OpenPGP.js v4.10.8
+
 Comment: https://openpgpjs.org
 
 xsBNBF6Uk4wBCAC3Vk9+LK3RBa6v5G0rQ/FJhmtbskNQRj7UbivLpmBg5eV+
@@ -32,4 +34,5 @@ FewIuSrkKWI5gk1E42tDIJWuzFoZzi5AqB9eRXPlAgHeS87OrgT9tfiuBS7e
 0l8qp0bVYSYSZ2X4aA3skefSO1858s6aanRZSvg6R1LNIWzkdDnSlD7mYhQv
 5mhxDjgfiHYNE6mM5Y/YhjqnelW0dZvko6FpeKYD3V8tspUAFnPE1QO89NQ=
 =eG5T
+
 -----END PGP PUBLIC KEY BLOCK-----
